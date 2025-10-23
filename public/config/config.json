@@ -21,7 +21,11 @@
     "entryTypesOrder": [
       "individuals",
       "biosamples",
-      "cohorts"
+      "cohorts",
+      "g_variants",
+      "runs",
+      "analyses",
+      "datasets"
     ],
     "showExternalNavBarLink": false,
 
